@@ -1,0 +1,59 @@
+{
+  "term": "Spring",
+  "year": "2004",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Aerospace Engineering",
+      "Guidance and Control Systems"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Human-Computer Interfaces"
+    ],
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Robotics and Control Systems"
+    ],
+    [
+      "Science",
+      "Cognitive Science"
+    ]
+  ],
+  "legacy_uid": "f5a328f2-ad4c-6ba6-fa9b-fdc75616df7f",
+  "instructors": {
+    "content": [
+      "d91a8be5-776d-608a-488c-ad023d26c49c",
+      "55565124-87e8-e080-e1fd-c7599259597e"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "010a137e-25b1-183f-78cd-70610b81ff9d",
+    "website": "16-422-human-supervisory-control-of-automated-systems-spring-2004"
+  },
+  "course_title": "Human Supervisory Control of Automated Systems",
+  "course_description": "Human Supervisory Control of Automated Systems\u00a0discusses elements of\u00a0the interactions between humans and machines.\u00a0 These elements include: assignment of roles and authority; tradeoffs between human control and human monitoring; and human intervention in automatic processes.\u00a0 Further topics\u00a0comprise: performance, optimization and social implications of the system; enhanced human interfaces; decision aiding; and automated alterting systems.\u00a0 Topics refer to applications in aerospace, industrial and transportation systems.\n",
+  "department_numbers": [
+    "16"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "16.422",
+  "course_image_thumbnail": {
+    "content": "3c36d123-c314-59f3-4cb1-221c2ee9723d",
+    "website": "16-422-human-supervisory-control-of-automated-systems-spring-2004"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Projects with Examples"
+  ],
+  "site_uid": "da65c768-7baf-4e4d-b559-6838c4e80656",
+  "site_short_id": "16.422-spring-2004",
+  "site_url_path": "courses/16-422-human-supervisory-control-of-automated-systems-spring-2004",
+  "title": "Course Metadata"
+}
