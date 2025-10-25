@@ -143,9 +143,9 @@ Classical Decision Theory and Bayes' Theorem
 
 Lehto, M. "Decision Making." In _Handbook of Human Factors and Ergonomics_. Edited by G. Salvendy. 2nd ed. New York: John Wiley & Sons, Inc., 1997, pp. 1207-1218.
 
-"{{% resource_link "bfbdb5a2-4e5a-4344-a0b1-cdea6069d6ae" "In Praise of Bayes" %}}." _Economist._ 2000.
+"[In Praise of Bayes](http://www.economist.com/displayStory.cfm?Story_ID=382968&CFID=242650&CFTOKEN=90644500)." _Economist._ 2000.
 
-Easton, V. J., and J. H. McColl. "{{% resource_link "473d2a9e-bb4f-4e7c-92a6-9f6bfe701ee1" "Statistics Glossary: Probability" %}}." 1997.
+Easton, V. J., and J. H. McColl. "[Statistics Glossary: Probability](http://www.stats.gla.ac.uk/steps/glossary/probability.html#baythm)." 1997.
 
 
 {{< tdclose >}}
@@ -195,7 +195,7 @@ Naturalistic Decision Making
 
 Lipshitz, R., G. Klein, J. Orasanu, and E. Salas. "Taking Stock of Naturalistic Decision Making." _Journal of Behavioral Decision Making_ 14 (2001): 331-352.
 
-Kahn, L. "{{% resource_link "a3b40c14-6a34-4099-aafd-839bf587a292" "Naturalistic Decision Making and Selecting a Spouse" %}}." 2003.
+Kahn, L. "[Naturalistic Decision Making and Selecting a Spouse](http://web.archive.org/web/20030219014746/http://www.geocities.com/SouthBeach/1285/decision.html)." 2003.
 
 
 {{< tdclose >}}
